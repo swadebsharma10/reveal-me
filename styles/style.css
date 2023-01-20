@@ -1,0 +1,22 @@
+.secondary-text{
+    color: rgb(122, 198, 7);
+}
+.btn-bg{
+    background-color: #7AC607;
+    
+}
+.header-bg{
+    background-color: #6A5192;
+}
+.banner-img-1{
+    background-image: url(../image/carousel/1.jpg);
+    height: 80vh;
+}
+.banner-img-2{
+    background-image: url(../image/carousel/2.jpg);
+    height: 80vh;
+}
+.banner-img-3{
+    background-image: url(../image/carousel/3.jpg);
+    height: 80vh;
+}
